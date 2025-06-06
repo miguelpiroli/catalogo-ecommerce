@@ -1,4 +1,4 @@
-NOME: Miguel Pires, Vinicius Press
+NOME: Miguel Pires, Vinicius Press.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 DESÇRIÇÃO DO PROJETO E FUNCIONALIDADES:
 Nosso projeto é uma aplicação web desenvolvida com Vue.js , Vite e TailwindCSS, voltada para a exibição de um catálogo de produtos.
@@ -13,7 +13,7 @@ TELAS DESENVOVIDAS:
 
 *Lista de Produtos*:![Image](https://github.com/user-attachments/assets/d12a22e2-a977-4eef-aab9-2ef69cbd7913)
 
-*Detalhes do Produto*:
+*Detalhes do Produto*:![Image](https://github.com/user-attachments/assets/b7435a06-5bab-4b47-971d-4af347c6d737)
 
 
 
