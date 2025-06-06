@@ -17,6 +17,9 @@ Print dos passos já feitos:![Image](https://github.com/user-attachments/assets/
 
 **Carrinho De Compras**:![Image](https://github.com/user-attachments/assets/6264d0d4-ce82-4361-b9dd-059bb331c7e8)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Vídeo no YouTube**:  https://youtu.be/T1oTTTz39wU
+
+
 
 
 
