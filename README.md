@@ -1,19 +1,21 @@
-NOME: Miguel Pires, Vinicius Press.
+**NOME: Miguel Pires, Vinicius Press**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-DESÇRIÇÃO DO PROJETO E FUNCIONALIDADES:
+**DESÇRIÇÃO DO PROJETO E FUNCIONALIDADES:
 Nosso projeto é uma aplicação web desenvolvida com Vue.js , Vite e TailwindCSS, voltada para a exibição de um catálogo de produtos.
-A aplicação consome dados de uma API e permite ao usuário visualizar produtos, navegar entre páginas e aproveitar uma interface moderna, responsiva e de carregamento rápido. Ideal para aplicações de e-commerce ou lojas virtuais.
+A aplicação consome dados de uma API e permite ao usuário visualizar produtos, navegar entre páginas e aproveitar uma interface moderna, responsiva e de carregamento rápido. Ideal para aplicações de e-commerce ou lojas visuais.**
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-COMO RODAR A APLICAÇÂO:
-Para rodar nossa aplicação, é necessário ter o Node.js instalado em sua maquina. Você deverá ir até o terminal, escrever "cd" e apertar a tecla "Tab" até que esteja em seu projeto , depois basta executar o comando npm install para instalar as dependências. Em seguida, use npm run dev para iniciar o servidor de desenvolvimento.A aplicação será acessível via navegador.
+**COMO RODAR A APLICAÇÂO:
+Para rodar nossa aplicação, é necessário ter o Node.js instalado em sua maquina. Você deverá ir até o terminal, escrever "cd" e apertar a tecla "Tab" até que esteja em seu projeto , depois basta executar o comando npm install para instalar as dependências. Em seguida, use npm run dev para iniciar o servidor de desenvolvimento.A aplicação será acessível via navegador.**
 
-Print dos passos já feitos:(https://github.com/user-attachments/assets/54bb8bf2-bcc9-403a-a862-e56fd4033205)
+Print dos passos já feitos:(https://github.com/user-attachments/assets/54bb8bf2-bcc9-403a-a862-e56fd4033205
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-TELAS DESENVOVIDAS:
+**TELAS DESENVOVIDAS:**
 
-*Lista de Produtos*:![Image](https://github.com/user-attachments/assets/d12a22e2-a977-4eef-aab9-2ef69cbd7913)
+*Lista De Produtos*:![Image](https://github.com/user-attachments/assets/d12a22e2-a977-4eef-aab9-2ef69cbd7913)
 
-*Detalhes do Produto*:![Image](https://github.com/user-attachments/assets/b7435a06-5bab-4b47-971d-4af347c6d737)
+*Detalhes Do Produto*:![Image](https://github.com/user-attachments/assets/b7435a06-5bab-4b47-971d-4af347c6d737)
+
+*Carrinho De Compras
 
 
 
