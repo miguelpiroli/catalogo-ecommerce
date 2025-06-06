@@ -9,13 +9,15 @@ Para rodar nossa aplicação, é necessário ter o Node.js instalado em sua maqu
 
 Print dos passos já feitos:![Image](https://github.com/user-attachments/assets/7a53ddcc-32d5-42eb-8523-f475c58b1582)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-**TELAS DESENVOVIDAS:**
+**TELAS DESENVOVIDAS**:
 
-*Lista De Produtos*:![Image](https://github.com/user-attachments/assets/d12a22e2-a977-4eef-aab9-2ef69cbd7913)
+**Lista De Produtos**:![Image](https://github.com/user-attachments/assets/d12a22e2-a977-4eef-aab9-2ef69cbd7913)
 
-*Detalhes Do Produto*:![Image](https://github.com/user-attachments/assets/b7435a06-5bab-4b47-971d-4af347c6d737)
+**Detalhes Do Produto**:![Image](https://github.com/user-attachments/assets/b7435a06-5bab-4b47-971d-4af347c6d737)
 
-*Carrinho De Compras
+**Carrinho De Compras**:![Image](https://github.com/user-attachments/assets/6264d0d4-ce82-4361-b9dd-059bb331c7e8)
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
